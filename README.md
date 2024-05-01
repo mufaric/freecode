@@ -5,6 +5,8 @@ this is the link for download :
 
 https://justpaste.it/dqvqy
 
+https://heylink.me/mufaric/
+
 installation :
 
 Make sure you have installed python (version >= 3.7) in your pc first. Run the following line in the terminal to install musicpy by pip.
